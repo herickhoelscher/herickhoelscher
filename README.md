@@ -26,6 +26,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,dart,flutter,py,git,rust&theme=dark)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,docker,postgres,linux&theme=dark)](https://skillicons.dev)
+
 </div>
 
 ---
@@ -34,12 +36,44 @@
 
 <div align="center">
 
-[![lp_drVanessa](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=lp_drVanessa&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/lp_drVanessa)
-[![Lp_Arcosull](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Lp_Arcosull&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/Lp_Arcosull)
-[![Lp_Alpe_V2](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Lp_Alpe_V2&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/Lp_Alpe_V2)
-[![leitor_pdf_rco](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=leitor_pdf_rco&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/leitor_pdf_rco)
-[![Yolo-agent-llm](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Yolo-agent-llm&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/Yolo-agent-llm)
-[![mobile_arquitetura_01](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=mobile_arquitetura_01&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/mobile_arquitetura_01)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/herickhoelscher/lp_drVanessa">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=lp_drVanessa&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/herickhoelscher/Lp_Arcosull">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Lp_Arcosull&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/herickhoelscher/Lp_Alpe_V2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Lp_Alpe_V2&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/herickhoelscher/leitor_pdf_rco">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=leitor_pdf_rco&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/herickhoelscher/Yolo-agent-llm">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Yolo-agent-llm&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/herickhoelscher/mobile_arquitetura_01">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=mobile_arquitetura_01&theme=github_dark&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -49,9 +83,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=herickhoelscher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herickhoelscher&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=herickhoelscher&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" />
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herickhoelscher&layout=compact&langs_count=8&theme=github_dark&hide_border=true" />
 
 </div>
 
