@@ -1,10 +1,10 @@
 <div align="center">
 
+<img src="./7d36547285fae9a3867576e85dbe0ccb.jpg" width="100%" />
+
 # Herick Hoelscher
 
-### 🚀 Desenvolvedor Fullstack em Formação | ADS
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Estudante+de+ADS;Desenvolvedor+Fullstack+em+Forma%C3%A7%C3%A3o;Apaixonado+por+tecnologia+e+web+dev;Aberto+a+freelas+e+oportunidades)](https://git.io/typing-svg)
+**Desenvolvedor Fullstack em Formação · ADS**
 
 </div>
 
@@ -13,25 +13,39 @@
 ## 👨‍💻 Sobre mim
 
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas (ADS)**
-- 💻 Focado em **desenvolvimento web fullstack** com React e Node.js
-- 🌐 Construindo projetos modernos com Next.js, TypeScript e PostgreSQL
-- 🐳 Aprendendo boas práticas com Docker e ambientes Linux
-- 💼 **Aberto a freelas e oportunidades** na área de dev web
-- 📬 Contato: herickneumann4@gmail.com
+- 💻 Focado em **desenvolvimento web** — landing pages, sistemas e automações
+- 📱 Experiência com **Flutter** no mobile
+- 💼 Aberto a **freelas**
+- 📬 herickneumann4@gmail.com
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias que uso
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,docker,postgres,git,linux&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,dart,flutter,py,git,rust&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📁 Projetos
+
+<div align="center">
+
+[![lp_drVanessa](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=lp_drVanessa&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/lp_drVanessa)
+[![Lp_Arcosull](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Lp_Arcosull&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/Lp_Arcosull)
+[![Lp_Alpe_V2](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Lp_Alpe_V2&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/Lp_Alpe_V2)
+[![leitor_pdf_rco](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=leitor_pdf_rco&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/leitor_pdf_rco)
+[![Yolo-agent-llm](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Yolo-agent-llm&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/Yolo-agent-llm)
+[![mobile_arquitetura_01](https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=mobile_arquitetura_01&theme=github_dark&hide_border=true)](https://github.com/herickhoelscher/mobile_arquitetura_01)
+
+</div>
+
+---
+
+## 📊 Stats
 
 <div align="center">
 
@@ -43,7 +57,7 @@
 
 ---
 
-## 🔥 Streak de Contribuições
+## 🔥 Streak
 
 <div align="center">
 
@@ -53,7 +67,7 @@
 
 ---
 
-## 🐍 Cobrinha comendo meus commits
+## 🐍 Contribuições
 
 <div align="center">
 
@@ -62,13 +76,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/herickhoelscher/herickhoelscher/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/herickhoelscher/herickhoelscher/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-*Sempre aprendendo, sempre construindo* 🚀
 
 </div>
