@@ -32,53 +32,6 @@
 
 ---
 
-## 📁 Projetos
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/herickhoelscher/lp_drVanessa">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=lp_drVanessa&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/herickhoelscher/Lp_Arcosull">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Lp_Arcosull&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/herickhoelscher/Lp_Alpe_V2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Lp_Alpe_V2&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/herickhoelscher/leitor_pdf_rco">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=leitor_pdf_rco&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/herickhoelscher/Yolo-agent-llm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=Yolo-agent-llm&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/herickhoelscher/mobile_arquitetura_01">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=herickhoelscher&repo=mobile_arquitetura_01&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 📊 Stats
 
 <div align="center">
@@ -91,11 +44,23 @@
 
 ---
 
-## 🔥 Streak
+## 📈 Linguagens por repositório
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=herickhoelscher&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=herickhoelscher&theme=github_dark&hide_border=true" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=herickhoelscher&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+## 🗓️ Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=herickhoelscher&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=388bfd&point=58a6ff&area=true&area_color=388bfd" width="100%" />
 
 </div>
 
